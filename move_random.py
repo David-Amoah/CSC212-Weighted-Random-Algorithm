@@ -1,4 +1,5 @@
 #!/qcc/bin/env python3
+#Authors David Restrepo & David Amoah
 import rclpy   # imports the ros2 python client library
 import math   # imports the math module
 import time    # imports the time module
