@@ -5,7 +5,6 @@ This is a research project which uses a Weighted Random Algorithm. It works by a
 values are more likely to be chosen. 
 
 ## Hardware
-Hardware Components
 - Create 3 Roomba
 - Raspberrypi 4
 - Lidar sensor
@@ -15,10 +14,11 @@ Hardware Components
 - ROS 2
 - NAV 2
 
-## Usage Instructions
-**1. Initialization:**  
+## User Manual 
 - Before using weighted random algortithm, ensure that your robot is powered on and ready for operation.  
-- Ensure that robot is equipped with required sensors responsible for navigation.  
+- Ensure that robot is equipped with required sensors responsible for navigation.  (Lidar)
+- Download Ros2 on a raspberry pi running on Ubuntu 22.04. [Link Here](https://docs.ros.org/en/crystal/Installation/Linux-Install-Binary.html)
+- Install Slam toolbox using terminal
    
    
 
