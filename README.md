@@ -11,4 +11,4 @@ values are more likely to be chosen.
    
    
 
-# [Official documentation](https://weighted-random-algorithm.netlify.app/)
+# [Official documentation](https://newdocu.netlify.app/)
