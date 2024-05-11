@@ -22,7 +22,9 @@ values are more likely to be chosen.
   
   > $ sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
 
-- 
+- Install slam toolbox
+
+  > $ sudo apt install ros-humble-slam-toolbox
    
 
 # [Official documentation](https://newdocu.netlify.app/)
