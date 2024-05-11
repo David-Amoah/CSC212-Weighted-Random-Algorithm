@@ -32,6 +32,9 @@ values are more likely to be chosen.
   >> ros2 launch create3_lidar_slam sensors_launch.py  
   >> ros2 launch create3_lidar_slam slam_toolbox_launch.py  
   >> ros2 run teleop_twist_keyboard teleop_twist_keyboard  
-  >> ros2 launch create3_lidar_slam rviz_launch.py  
+  >> ros2 launch create3_lidar_slam rviz_launch.py
+  >
+
+-Also,
 
 # [Official documentation](https://newdocu.netlify.app/)
