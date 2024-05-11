@@ -4,4 +4,10 @@ This is an implementation of a weighed random algorithm in python for a create3 
 This is a research project which uses a Weighted Random Algorithm. It works by assigning numeric values to different objects and randomly picks one. Objects with higher 
 values are more likely to be chosen. 
 
-# [Doxygen generated documentation](https://weighted-random-algorithm.netlify.app/)
+## Usage Instructions
+**1. Initialization:**
+      -Before using weighted random algortithm, ensure that your robot is powered on and 
+   
+   
+
+# [Official documentation](https://weighted-random-algorithm.netlify.app/)
