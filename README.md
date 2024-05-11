@@ -5,9 +5,9 @@ This is a research project which uses a Weighted Random Algorithm. It works by a
 values are more likely to be chosen. 
 
 ## Usage Instructions
-**1. Initialization:**
-      *Before using weighted random algortithm, ensure that your robot is powered on and ready for operation.
-      *Ensure that robot is equipped with required sensors responsible for navigation.
+**1. Initialization:**  
+      *Before using weighted random algortithm, ensure that your robot is powered on and ready for operation.  
+      *Ensure that robot is equipped with required sensors responsible for navigation.  
    
    
 
