@@ -11,4 +11,4 @@ values are more likely to be chosen.
    
    
 
-# [Official documentation](https://newdocu.netlify.app/){:target="_blank"} 
+# [Official documentation](https://newdocu.netlify.app/)
