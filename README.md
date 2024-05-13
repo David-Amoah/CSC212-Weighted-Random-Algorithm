@@ -40,8 +40,9 @@ values are more likely to be chosen.
 
       $ ros2 run nav2_map_server map_saver_cli -f my_map -f
 
-- Open a terminal and run these commands  
-      $ ros2 launch create3_lidar_slam sensors_launch.py  
+- Open a terminal and run these commands
+
+      $ ros2 launch create3_lidar_slam sensors_launch.py
       $ ros2 launch create3_lidar_slam rviz_launch.py  
       $ ros2 launch nav2_bringup localization_launch.py  
       $ ros2 launch nav2_bringup navigation_launch.py  
