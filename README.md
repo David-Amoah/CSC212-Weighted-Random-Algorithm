@@ -41,9 +41,9 @@ values are more likely to be chosen.
       $ ros2 run nav2_map_server map_saver_cli -f my_map -f
 
 - Open a terminal and run these commands  
-      $ ros2 launch create3_lidar_slam sensors_launch.py
-      $ ros2 launch create3_lidar_slam rviz_launch.py
-      $ ros2 launch nav2_bringup localization_launch.py map:=/home/qcc/ros2_ws/src/py_pubsub/saved_maps/my_map.yaml use_sim_time:=false
-      $ ros2 launch nav2_bringup navigation_launch.py use_sim_time:=false map_subscribe_transient_local:=true
+      $ ros2 launch create3_lidar_slam sensors_launch.py  
+      $ ros2 launch create3_lidar_slam rviz_launch.py  
+      $ ros2 launch nav2_bringup localization_launch.py  
+      $ ros2 launch nav2_bringup navigation_launch.py  
 
 # [Official documentation](https://newdocu.netlify.app/)
