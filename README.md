@@ -38,8 +38,8 @@ values are more likely to be chosen.
 
 - Run this command in order to save the map
 
-  > ros2 run nav2_map_server map_saver_cli -f my_map -f
+      $ ros2 run nav2_map_server map_saver_cli -f my_map -f
 
-### Follow these steps in order to run the program
+### To initiate the program successfully, adhere to the sequential execution of the following steps.
 
 # [Official documentation](https://newdocu.netlify.app/)
