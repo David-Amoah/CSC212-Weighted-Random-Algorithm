@@ -24,16 +24,17 @@ values are more likely to be chosen.
 
 - Install slam toolbox
 
-  > $ sudo apt install ros-humble-slam-toolbox
+    $ sudo apt install ros-humble-slam-toolbox
 
 - With the SLAM Toolbox installed, users can generate a detailed map of their environment, providing an accurate representation of the room layout.
 
-  > These steps enable to map out the room and manually control the robot via keyboard input, facilitating user-driven operation.
-  >> $ ros2 launch create3_lidar_slam sensors_launch.py  
-  >> $ ros2 launch create3_lidar_slam slam_toolbox_launch.py  
-  >> $ ros2 run teleop_twist_keyboard teleop_twist_keyboard  
-  >> $ ros2 launch create3_lidar_slam rviz_launch.py
-  >
+- These steps enable to map out the room and manually control the robot via keyboard input, facilitating user-driven operation.
+   >
+    $ ros2 launch create3_lidar_slam sensors_launch.py  
+    $ ros2 launch create3_lidar_slam slam_toolbox_launch.py  
+    $ ros2 run teleop_twist_keyboard teleop_twist_keyboard
+    $ ros2 launch create3_lidar_slam rviz_launch.py
+   >
 
 - Run this command in order to save the map
 
