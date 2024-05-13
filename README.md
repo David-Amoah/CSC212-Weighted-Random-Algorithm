@@ -21,7 +21,7 @@ values are more likely to be chosen.
 - Install Nav 2 by running this command in the terminal.
 
   ##
-$ sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
+    $ sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
 
 - Install slam toolbox
 
