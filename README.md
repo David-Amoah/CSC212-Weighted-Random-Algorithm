@@ -19,8 +19,9 @@ values are more likely to be chosen.
 - Ensure that robot is equipped with required sensors responsible for navigation.  (Lidar)
 - Download Ros2 on a raspberry pi running on Ubuntu 22.04. [Link Here](https://docs.ros.org/en/crystal/Installation/Linux-Install-Binary.html)
 - Install Nav 2 by running this command in the terminal.
-  
-  > $ sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
+
+  ##
+$ sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
 
 - Install slam toolbox
 
@@ -35,6 +36,10 @@ values are more likely to be chosen.
   >> $ ros2 launch create3_lidar_slam rviz_launch.py
   >
 
-- 
+- Run this command in order to save the map
+
+  > ros2 run nav2_map_server map_saver_cli -f my_map -f
+
+### Follow these steps in order to run the program
 
 # [Official documentation](https://newdocu.netlify.app/)
