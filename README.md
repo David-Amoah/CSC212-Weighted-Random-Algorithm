@@ -59,6 +59,10 @@ values are more likely to be chosen.
   
 5. Execute the NAV2 launch file to activate navigation services.
    
-        $ ros2 launch nav2_bringup navigation_launch.py  
+        $ ros2 launch nav2_bringup navigation_launch.py
+
+6. Run Move Random program
+
+        $ ros2 run py_pubsub move_random --ros-args -p map_name:=my_map
 
 # [Official documentation](https://newdocu.netlify.app/)
