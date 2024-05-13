@@ -41,6 +41,7 @@ values are more likely to be chosen.
       $ ros2 run nav2_map_server map_saver_cli -f my_map -f
 
 ### Running the code
+##
 1. Start the slam tool box
 
         $ ros2 launch create3_lidar_slam slam_toolbox_launch.py
