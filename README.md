@@ -43,7 +43,7 @@ values are more likely to be chosen.
 ## Running the code
 1. Start the slam tool box
 
-      $ ros2 launch create3_lidar_slam slam_toolbox_launch.py
+        $ ros2 launch create3_lidar_slam slam_toolbox_launch.py
    
 2. Start your lidar sensors
    
