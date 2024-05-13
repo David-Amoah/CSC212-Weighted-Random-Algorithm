@@ -41,15 +41,24 @@ values are more likely to be chosen.
       $ ros2 run nav2_map_server map_saver_cli -f my_map -f
 
 ## Running the code
-1. Start the slam tool box  
+1. Start the slam tool box
+
       $ ros2 launch create3_lidar_slam slam_toolbox_launch.py
-2. Start your lidar sensors  
+   
+2. Start your lidar sensors
+   
       $ ros2 launch create3_lidar_slam sensors_launch.py
-3. Launch your rviz  
+
+3. Launch your rviz
+
       $ ros2 launch create3_lidar_slam rviz_launch.py
-4. Set up and configure the localization components with this command   
-      $ ros2 launch nav2_bringup localization_launch.py 
-5. Execute the NAV2 launch file to activate navigation services.  
+  
+4. Set up and configure the localization components with this command
+
+      $ ros2 launch nav2_bringup localization_launch.py
+  
+5. Execute the NAV2 launch file to activate navigation services.
+   
       $ ros2 launch nav2_bringup navigation_launch.py  
 
 # [Official documentation](https://newdocu.netlify.app/)
